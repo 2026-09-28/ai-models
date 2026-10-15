@@ -1,0 +1,13 @@
+{
+    "url": "https://ai.google.dev/gemini-api/docs/models/",
+    "models": [
+        {
+            "id": "gemini-4-argon",
+            "name": "Gemini 4 Argon"
+        },
+        {
+            "id": "gemini-3.8-flash",
+            "name": "Gemini 3.8 Flash"
+        }
+    ]
+}

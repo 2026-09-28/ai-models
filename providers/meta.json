@@ -1,0 +1,13 @@
+{
+    "url": "https://dev.meta.ai/models/",
+    "models": [
+        {
+            "id": "muse-wonder",
+            "name": "Muse Wonder"
+        },
+        {
+            "id": "muse-spark",
+            "name": "Muse Spark 1.3"
+        }
+    ]
+}

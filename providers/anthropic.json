@@ -1,0 +1,21 @@
+{
+    "url": "https://platform.claude.com/docs/ko/models/",
+    "models": [
+        {
+            "id": "fable-5-1",
+            "name": "Claude Fable 5.1"
+        },
+        {
+            "id": "opus-5-5",
+            "name": "Claude Opus 5.5"
+        },
+        {
+            "id": "sonnet-5-5",
+            "name": "Claude Sonnet 5.5"
+        },
+        {
+            "id": "haiku-5-5",
+            "name": "Claude Haiku 5.5"
+        }
+    ]
+}
